@@ -4,10 +4,10 @@ This github is for the latest TCAdmin v2 Game Configuration Files, public bug re
 
 Each Game Configuration will contain a "README.md" to install and configure your game server.
 
-# Batch Files
+## Batch Files
 
-# Congfig Files
+## Congfig Files
 
-# Folders
+## Folders
 
-# Included Custom Game XML Files
+## Included Custom Game XML Files
