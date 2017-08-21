@@ -10,6 +10,18 @@ What things you need to run our config files and how to install them.
 
 ```
 Windows Prerequisites
+
+* Microsoft Visual C++ Redistributable 2017 (x64) - (Link will be here)
+* Microsoft Visual C++ Redistributable 2015 (x86) - (Link will be here)
+* Microsoft Visual C++ Redistributable 2013 (x86) - (Link will be here)
+* Microsoft Visual C++ Redistributable 2013 (x64) - (Link will be here)
+* Microsoft Visual C++ Redistributable 2012 (x86) - (Link will be here)
+* Microsoft Visual C++ Redistributable 2012 (x64) - (Link will be here)
+* Microsoft Visual C++ Redistributable 2010 (x86) - (Link will be here)
+* Microsoft Visual C++ Redistributable 2010 (x64) - (Link will be here) 
+
+* Direct X - (Link will be here)
+
 ```
 
 ```
