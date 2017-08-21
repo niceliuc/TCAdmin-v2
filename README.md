@@ -14,7 +14,10 @@ Each Game Configuration will contain a "README.md" to install and configure your
 
 * **7 Days to Die** - *Config Version - (v2.0.1)* - [Windows]
 
-* Please read [7DTD-Win - Windows.xml](#) for new updates and file download.
-* [Order a Server](https://www.ukpowered.uk/7-days-to-die-server-hosting/) - My website to order
+** Please read [7DTD-Win - Windows.xml](#) for new updates and file download.
+** [Order a Server](https://www.ukpowered.uk/7-days-to-die-server-hosting/) - Website to order a Windows server.
 
 * **7 Days to Die** - *Config Version - (v2.0.1)* - [Linux]
+
+** Please read [7DTD-Lin - Linux](#) for new updates and file download.
+** [Order a Server](https://www.ukpowered.uk/7-days-to-die-server-hosting/) - Website to order a Linux server.
