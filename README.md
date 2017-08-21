@@ -4,6 +4,18 @@ This github is for the latest TCAdmin v2 Game Configuration Files, public bug re
 
 Each Game Configuration will contain a "README.md" to install and configure your game server.
 
+### Prerequisites
+
+What things you need to run our config files and how to install them.
+
+```
+Windows Prerequisites
+```
+
+```
+Linux (CentOS 7+) Prerequisites
+```
+
 ## Batch Files (For use with or without TCAdmin)
 
 * download_arma.bat - Download ARMA 3 via SteamCMD
@@ -32,3 +44,7 @@ Each Game Configuration will contain a "README.md" to install and configure your
 
 * **BlackWake** - *Config Version - (1.1)* - [Windows]
 * **BlackWake** - *NOT SUPPORTED* - [Linux]
+
+## (WIP)
+
+This project is a work in progress - I will update this repository daily!
