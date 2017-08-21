@@ -15,7 +15,7 @@ Each Game Configuration will contain a "README.md" to install and configure your
 
 ## Included Custom Game XML Files
 
-* **7 Days to Die** - *Config Version - (2.0.1)* - [Windows] - [Download](http://www.dropwizard.io/1.0.2/docs/) - [Rent a Server](https://www.ukpowered.uk/7-days-to-die-server-hosting/)
+* **7 Days to Die** - *Config Version - (2.0.1)* - [Windows] - [Download](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/7-Days-to-Die) - [Rent a Server](https://www.ukpowered.uk/7-days-to-die-server-hosting/)
 * **7 Days to Die** - *Config Version - (2.0.1)* - [Linux]
 
 * **Ark: Survival Evolved** - *Config Version - (1.0)* - [Windows]
