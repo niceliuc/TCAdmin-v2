@@ -1,0 +1,1 @@
+7DaysToDieServer.exe -configfile=serverconfig.xml -logfile 7DaysToDieServer_Data/output_log.txt -quit -batchmode -nographics -dedicated

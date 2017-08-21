@@ -4,7 +4,7 @@ This github is for the latest TCAdmin v2 Game Configuration Files, public bug re
 
 Each Game Configuration will contain a "README.md" to install and configure your game server.
 
-## Batch Files (For use with or without TVVAdmin)
+## Batch Files (For use with or without TCAdmin)
 
 * download_arma.bat - Download ARMA 3 via SteamCMD
 * start.bat - Runs the prestart.bat and starts the server exe
@@ -15,7 +15,7 @@ Each Game Configuration will contain a "README.md" to install and configure your
 
 ## Included Custom Game XML Files
 
-* **7 Days to Die** - *Config Version - (2.0.1)* - [Windows]
+* **7 Days to Die** - *Config Version - (2.0.1)* - [Windows] - [Download](http://www.dropwizard.io/1.0.2/docs/) - [Rent a Server](https://www.ukpowered.uk/7-days-to-die-server-hosting/)
 * **7 Days to Die** - *Config Version - (2.0.1)* - [Linux]
 
 * **Ark: Survival Evolved** - *Config Version - (1.0)* - [Windows]
