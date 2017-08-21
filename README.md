@@ -60,3 +60,12 @@ Linux (CentOS 7+) Prerequisites
 ## (WIP)
 
 This project is a work in progress - I will update this repository daily!
+
+## Authors
+
+* **Mr.Brit** - *Configuration Files & Updates* - [Mr.Brit's Profile](http://clientforums.tcadmin.com/member.php?u=86032)
+* **Numpty** - *Configuration Files & Updates* - [Numpty's Profile](http://clientforums.tcadmin.com/member.php?u=84940)
+
+## Acknowledgments
+
+* TCAdmin for providing the software & scripts - [TCAdmin](http://www.tcadmin.com/)
