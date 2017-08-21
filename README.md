@@ -12,5 +12,5 @@ Each Game Configuration will contain a "README.md" to install and configure your
 
 ## Included Custom Game XML Files
 
-* **7 Days to Die** - *Config Version - (v2.0.1)* - [Windows] (#) : [Order a Server](https://www.ukpowered.uk/members/cart.php?a=confproduct&i=0 "Giiidd"){:target="_blank"}
+* **7 Days to Die** - *Config Version - (v2.0.1)* - [Windows] (http://#/) - [Order a Server] (http://https://www.ukpowered.uk/7-days-to-die-server-hosting/) 
 * **7 Days to Die** - *Config Version - (v2.0.1)* - [Linux]
