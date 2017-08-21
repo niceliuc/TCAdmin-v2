@@ -4,7 +4,10 @@ This github is for the latest TCAdmin v2 Game Configuration Files, public bug re
 
 Each Game Configuration will contain a "README.md" to install and configure your game server.
 
-## Batch Files
+## Batch Files (For use with or without TVVAdmin)
+
+* download_arma.bat - Download ARMA 3 via SteamCMD
+* start.bat - Runs the prestart.bat and starts the server exe
 
 ## Congfig Files
 
