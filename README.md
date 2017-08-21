@@ -12,12 +12,20 @@ Each Game Configuration will contain a "README.md" to install and configure your
 
 ## Included Custom Game XML Files
 
-* **7 Days to Die** - *Config Version - (v2.0.1)* - [Windows]
+* **7 Days to Die** - *Config Version - (2.0.1)* - [Windows]
+* **7 Days to Die** - *Config Version - (2.0.1)* - [Linux]
 
-** Please read [7DTD-Win - Windows.xml](#) for new updates and file download.
-** [Order a Server](https://www.ukpowered.uk/7-days-to-die-server-hosting/) - Website to order a Windows server.
+* **Ark: Survival Evolved** - *Config Version - (1.0)* - [Windows]
+* **Ark: Survival Evolved** - *Config Version - (1.0)* - [Linux]
 
-* **7 Days to Die** - *Config Version - (v2.0.1)* - [Linux]
+* **Arma 3 (Vanilla)** - *Config Version - (1.0)* - [Windows]
+* **Arma 3 (Vanilla)** - *Config Version - (1.0)* - [Linux]
 
-** Please read [7DTD-Lin - Linux](#) for new updates and file download.
-** [Order a Server](https://www.ukpowered.uk/7-days-to-die-server-hosting/) - Website to order a Linux server.
+* **Arma 3 Exile Mod** - *Config Version - (1.0)* - [Windows]
+* **Arma 3 Exile Mod** - *Config Version - (1.0)* - [Linux] - COMING SOON!
+
+* **ArmA III Desolation Redux** - *Config Version - (0.1.3.5)* - [Windows]
+* **ArmA III Desolation Redux** - *Config Version - (0.1.3.5)* - [Linux]
+
+* **BlackWake** - *Config Version - (1.1)* - [Windows]
+* **BlackWake** - *NOT SUPPORTED* - [Linux]
