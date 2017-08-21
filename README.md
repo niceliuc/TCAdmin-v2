@@ -39,7 +39,7 @@ Linux (CentOS 7+) Prerequisites
 
 ## Included Custom Game XML Files
 
-* **7 Days to Die** - *Config Version - (2.0.1)* - [Windows] - [Master XML File](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/7-Days-to-Die) - [Rent a Server](https://www.ukpowered.uk/7-days-to-die-server-hosting/)
+* **7 Days to Die** - *Config Version - (2.0.1)* - [Windows] - [[Master XML File]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/7-Days-to-Die) - [[Rent a Server]](https://www.ukpowered.uk/7-days-to-die-server-hosting/)
 * **7 Days to Die** - *Config Version - (2.0.1)* - [Linux]
 
 * **Ark: Survival Evolved** - *Config Version - (1.0)* - [Windows]
