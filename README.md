@@ -42,7 +42,7 @@ Linux (CentOS 7+) Prerequisites
 * **7 Days to Die** - *Config Version - (2.0.1)* - [Windows] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/7-Days-to-Die-Windows) - [[Rent a 7 Days to Die Server]](https://www.ukpowered.uk/7-days-to-die-server-hosting/)
 * **7 Days to Die** - *Config Version - (2.0.1)* - [Linux] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/7-Days-to-Die-Linux)
 
-* **Ark: Survival Evolved** - *Config Version - (1.0)* - [Windows] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/Ark-Survival-Evolved-Windows) - [[Rent a Ark: Survival Evolved Server]](https://www.ukpowered.uk/ark-survival-evolved-server-hosting/)
+* **Ark: Survival Evolved** - *Config Version - (1.0)* - [Windows] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/Ark-Survival-Evolved-Windows) - [[Rent a Ark: SE Server]](https://www.ukpowered.uk/ark-survival-evolved-server-hosting/)
 * **Ark: Survival Evolved** - *Config Version - (1.0)* - [Linux] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/Ark-Survival-Evolved-Linux)
 
 * **Arma 3 (Vanilla)** - *Config Version - (1.0)* - [Windows]
