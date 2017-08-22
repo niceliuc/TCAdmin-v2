@@ -42,8 +42,8 @@ Linux (CentOS 7+) Prerequisites
 * **7 Days to Die** - *Config Version - (2.0.1)* - [Windows] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/7-Days-to-Die-Windows) - [[Rent a 7 Days to Die Server]](https://www.ukpowered.uk/7-days-to-die-server-hosting/)
 * **7 Days to Die** - *Config Version - (2.0.1)* - [Linux] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/7-Days-to-Die-Linux)
 
-* **Ark: Survival Evolved** - *Config Version - (1.0)* - [Windows]
-* **Ark: Survival Evolved** - *Config Version - (1.0)* - [Linux]
+* **Ark: Survival Evolved** - *Config Version - (1.0)* - [Windows] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/Ark-Survival-Evolved-Windows) - [[Rent a Ark: Survival Evolved Server]](https://www.ukpowered.uk/ark-survival-evolved-server-hosting/)
+* **Ark: Survival Evolved** - *Config Version - (1.0)* - [Linux] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/Ark-Survival-Evolved-Linux)
 
 * **Arma 3 (Vanilla)** - *Config Version - (1.0)* - [Windows]
 * **Arma 3 (Vanilla)** - *Config Version - (1.0)* - [Linux]
@@ -56,6 +56,36 @@ Linux (CentOS 7+) Prerequisites
 
 * **BlackWake** - *Config Version - (1.1)* - [Windows]
 * **BlackWake** - *NOT SUPPORTED* - [Linux]
+
+* **Citadel: Forged with Fire** - *Config Version - ()* - [Windows]
+* **Citadel: Forged with Fire** - *Config Version - ()* - [Linux]
+
+* **Conan Exiles** - *Config Version - ()* - [Windows]
+* **Conan Exiles** - *Config Version - ()* - [Linux]
+
+* **Counter-Strike Global Offensive** - *Config Version - ()* - [Windows]
+* **Counter-Strike Global Offensive** - *Config Version - ()* - [Linux]
+
+* **Dark and Light** - *Config Version - ()* - [Windows]
+* **Dark and Light** - *Config Version - ()* - [Linux]
+
+* **Insurgency** - *Config Version - ()* - [Windows]
+* **Insurgency** - *Config Version - ()* - [Linux]
+
+* **Rust** - *Config Version - ()* - [Windows]
+* **Rust** - *Config Version - ()* - [Linux]
+
+* **Space Engineers** - *Config Version - ()* - [Windows]
+* **Space Engineers** - *Config Version - ()* - [Linux]
+
+* **Starbound** - *Config Version - ()* - [Windows]
+* **Starbound** - *Config Version - ()* - [Linux]
+
+* **Unturned** - *Config Version - ()* - [Windows]
+* **Unturned** - *Config Version - ()* - [Linux]
+
+* **More Soon!** - *Config Version - ()* - [Windows]
+* **More Soon!** - *Config Version - ()* - [Linux]
 
 ## (WIP)
 
