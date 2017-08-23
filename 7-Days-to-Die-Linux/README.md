@@ -5,6 +5,10 @@
 3. Go to > Settings > Game Tools > "Steam Game Downloader" and Download the Server Files
 4. Now you can create your first service
 
+## Configuration Files
+
+## Configuration Editor
+
 ## Included Linux .sh Files (for use with or without TCAdmin)
 
 * Launch Parameters (Commandline) .sh

@@ -1,9 +1,13 @@
-## Install Linux Server
+## Install Windows Server
 
 1. Download the latest release of this repo
 2. Upload the XML via "Games & Other Voice Servers" - "Import"
 3. Go to > Settings > Game Tools > "Steam Game Downloader" and Download the Server Files
 4. Now you can create your first service
+
+## Configuration Files
+
+## Configuration Editor
 
 ## Included Batch Files (for use with or without TCAdmin)
 
