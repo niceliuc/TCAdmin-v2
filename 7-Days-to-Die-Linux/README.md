@@ -17,7 +17,7 @@
 
 ## Changelog
 
-This is for your current installed xml file to save you deliting and importing my changes
+This is for your current installed xml file to save you deleting and importing my changes
 
 ## Planned Features
 
