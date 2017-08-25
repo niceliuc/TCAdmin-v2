@@ -1,0 +1,1 @@
+"C:\Program Files\TCAdmin2\Monitor\Tools\SteamCmd\steamcmd.exe" +login "anonymous" +force_install_dir "E:\Games\Space-win"  +app_update 298740 validate +quit
