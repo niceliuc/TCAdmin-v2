@@ -1,8 +1,8 @@
 ## Install Windows Server
 
-,,,,
+```
 This configuration file is very extensive and has over 100+ custom veriables and double that in the configuration editor.
-,,,,
+```
 
 1. Download the latest release of this repo
 2. Upload the XML via "Games & Other Voice Servers" - "Import"
@@ -20,7 +20,10 @@ This configuration file is very extensive and has over 100+ custom veriables and
 * Location: World/SpaceEngineers-Dedicated.cfg
 * [Raw version of the Configuration File](#)
 
+
 ## Configuration Editor
+
+* Supported with over 200 veriable options!
 
 
 ## Included Batch Files (for use with or without TCAdmin)
@@ -28,9 +31,11 @@ This configuration file is very extensive and has over 100+ custom veriables and
 * Launch Parameters (Commandline) BAT file
 * SteamCMD Download Script BAT file
 
+
 ## Changelog
 
 This is for your current installed xml file to save you deleting and importing my changes
+
 
 ## Planned Features
 
