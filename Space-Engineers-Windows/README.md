@@ -40,10 +40,12 @@ This is for your current installed xml file to save you deleting and importing m
 ## Known Issues
 
 1. Configuration Editor Error with three Variables (They still read but i need to make some changes)
+2. Game Tracker Support
 
 
 ## Planned Features
 
-1. Steam Workshop Mod Support
+1. Tidy up onfiguration Editor and Add more Information
+2. Steam Workshop Mod Support
 
 Everything else has been done for you.
