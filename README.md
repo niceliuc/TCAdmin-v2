@@ -75,8 +75,8 @@ Linux (CentOS 7+) Prerequisites
 * **Rust** - *Config Version - ()* - [Windows]
 * **Rust** - *Config Version - ()* - [Linux]
 
-* **Space Engineers** - *Config Version - ()* - [Windows]
-* **Space Engineers** - *Config Version - ()* - [Linux]
+* **Space Engineers** - *Config Version - (1.0)* - [Windows] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/Space-Engineers-Windows) - [[Rent a Space Engineers]](https://www.ukpowered.uk/space-engineers-server-hosting/)
+* **Space Engineers** - *Config Version - ()* - [Linux] - [Update soon using Wine]
 
 * **Starbound** - *Config Version - ()* - [Windows]
 * **Starbound** - *Config Version - ()* - [Linux]
