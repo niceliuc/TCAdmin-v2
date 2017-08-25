@@ -23,7 +23,7 @@ This configuration file is very extensive and has over 100+ custom veriables and
 
 ## Configuration Editor
 
-* Supported with over 200 veriable options!
+* Supported with over 200+ veriable options!
 
 
 ## Included Batch Files (for use with or without TCAdmin)
@@ -35,6 +35,11 @@ This configuration file is very extensive and has over 100+ custom veriables and
 ## Changelog
 
 This is for your current installed xml file to save you deleting and importing my changes
+
+
+## Known Issues
+
+1. Configuration Editor Error with three Variables (They still read but i need to make some changes)
 
 
 ## Planned Features
