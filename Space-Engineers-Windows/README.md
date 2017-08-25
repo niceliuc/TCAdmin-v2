@@ -13,6 +13,7 @@ This configuration file is very extensive and has over 100+ custom veriables and
 ## Features
 
 1. Over 100+ Custom veriables
+2. Steam API Support
 
 
 ## Configuration Files
