@@ -7,25 +7,42 @@ This configuration file is a bit tricky to get working due to file permissions b
 1. Download the latest release of this repo
 2. Upload the XML via "Games & Other Voice Servers" - "Import"
 3. Go to > Settings > Game Tools > "Steam Game Downloader" and Download the Server Files
-4. Edit File Permissions 
-4. Now you can create your first service
+4. Edit File Permissions ********
+5. Create "Mod" folder in "ConanSandbox" Directory
+6. Create "modlist.txt" text file in your new "Mod" folder
+7. In root Folder run "StartServer.bat" and leave it for a few mins then click on the main windows and push CTRL+C to shut down. 
+(This will generate the files needed)
+8. Go to > ConanSandbox > Saved > Config > WindowsServer and change the permissions on the files listed in step (9)
+9. Right Click & Properties then check the "Read-only" check box on these files. "ServerSettings.ini" , "Game.ini" , "Engine.ini"
+10. You can now create your first service!
 
 
 ## Features
 
-1. 
+1. 119 Custom Variables!
 2. Steam API Support
+3. Save CTRL+C Script on Server Shutdown
 
 
 ## Configuration Files
 
-* Location: 
-* [Raw version of the Configuration File](#)
+* ConanSandbox\Saved\Config\WindowsServer\Game.ini
+* ConanSandbox\Saved\Config\WindowsServer\Engine.ini
+* ConanSandbox\Saved\Config\WindowsServer\ServerSettings.ini
+
+* Raw File Settings "Game.ini" (#)
+* Raw File Settings "Engine.ini" (#)
+* Raw File Settings "ServerSettings.ini" (#)
+
+
+## Log Files
+
+* Location: ConanSandbox\Saved\Logs\ConanSandbox.log
 
 
 ## Configuration Editor
 
-* 
+* Supported with 150+ Options!
 
 
 ## Included Batch Files (for use with or without TCAdmin)
@@ -41,13 +58,11 @@ This is for your current installed xml file to save you deleting and importing m
 
 ## Known Issues
 
-1. 
-2. 
+1. Missing Configuration Editor Settings for file "ServerSettings.ini" (I will add this soon)
 
 
 ## Planned Features
 
-1. 
-2. Steam Workshop Mod Support
+1. Steam Workshop Mod Support
 
 Everything else has been done for you.
