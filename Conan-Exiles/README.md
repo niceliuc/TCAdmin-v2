@@ -16,6 +16,12 @@ This configuration file is a bit tricky to get working due to file permissions b
 9. You can now create your first service!
 
 
+## Install Linux Server
+
+```
+Coming Soon!
+```
+
 ## Features
 
 1. 119 Custom Variables!
@@ -29,9 +35,9 @@ This configuration file is a bit tricky to get working due to file permissions b
 * ConanSandbox\Saved\Config\WindowsServer\Engine.ini
 * ConanSandbox\Saved\Config\WindowsServer\ServerSettings.ini
 
-* Raw File Settings "Game.ini" (https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/Game.ini)
-* Raw File Settings "Engine.ini" (https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/Engine.ini)
-* Raw File Settings "ServerSettings.ini" (https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/ServerSettings.ini)
+* Raw File Settings "Game.ini" [Game.ini] (https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/Game.ini)
+* Raw File Settings "Engine.ini" [Engine.ini] (https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/Engine.ini)
+* Raw File Settings "ServerSettings.ini" [ServerSettings.ini] (https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/ServerSettings.ini)
 
 
 ## Log Files
