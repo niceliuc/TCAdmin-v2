@@ -7,14 +7,13 @@ This configuration file is a bit tricky to get working due to file permissions b
 1. Download the latest release of this repo
 2. Upload the XML via "Games & Other Voice Servers" - "Import"
 3. Go to > Settings > Game Tools > "Steam Game Downloader" and Download the Server Files
-4. Edit File Permissions ********
-5. Create "Mod" folder in "ConanSandbox" Directory
-6. Create "modlist.txt" text file in your new "Mod" folder
-7. In root Folder run "StartServer.bat" and leave it for a few mins then click on the main windows and push CTRL+C to shut down. 
+4. Create "Mod" folder in "ConanSandbox" Directory
+5. Create "modlist.txt" text file in your new "Mod" folder
+6. In root Folder run "StartServer.bat" and leave it for a few mins then click on the main windows and push CTRL+C to shut down. 
 (This will generate the files needed)
-8. Go to > ConanSandbox > Saved > Config > WindowsServer and change the permissions on the files listed in step (9)
-9. Right Click & Properties then check the "Read-only" check box on these files. "ServerSettings.ini" , "Game.ini" , "Engine.ini"
-10. You can now create your first service!
+7. Go to > ConanSandbox > Saved > Config > WindowsServer and change the permissions on the files listed in step (9)
+8. Right Click & Properties then check the "Read-only" check box on these files. "ServerSettings.ini" , "Game.ini" , "Engine.ini"
+9. You can now create your first service!
 
 
 ## Features
@@ -30,9 +29,9 @@ This configuration file is a bit tricky to get working due to file permissions b
 * ConanSandbox\Saved\Config\WindowsServer\Engine.ini
 * ConanSandbox\Saved\Config\WindowsServer\ServerSettings.ini
 
-* Raw File Settings "Game.ini" (#)
-* Raw File Settings "Engine.ini" (#)
-* Raw File Settings "ServerSettings.ini" (#)
+* Raw File Settings "Game.ini" (https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/Game.ini)
+* Raw File Settings "Engine.ini" (https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/Engine.ini)
+* Raw File Settings "ServerSettings.ini" (https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/ServerSettings.ini)
 
 
 ## Log Files
