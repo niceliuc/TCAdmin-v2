@@ -72,6 +72,9 @@ Linux (CentOS 7+) Prerequisites
 * **Insurgency** - *Config Version - ()* - [Windows]
 * **Insurgency** - *Config Version - ()* - [Linux]
 
+* **Medieval Engineers** - *Config Version - ()* - [Windows]
+* **Medieval Engineers** - *Config Version - ()* - [Linux]
+
 * **Rust** - *Config Version - ()* - [Windows]
 * **Rust** - *Config Version - ()* - [Linux]
 
