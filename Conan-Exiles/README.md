@@ -35,9 +35,9 @@ Coming Soon!
 * ConanSandbox\Saved\Config\WindowsServer\Engine.ini
 * ConanSandbox\Saved\Config\WindowsServer\ServerSettings.ini
 
-* Raw File Settings "Game.ini" [Game.ini] (https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/Game.ini)
-* Raw File Settings "Engine.ini" [Engine.ini] (https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/Engine.ini)
-* Raw File Settings "ServerSettings.ini" [ServerSettings.ini] (https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/ServerSettings.ini)
+* Raw File Settings "Game.ini" [Game.ini](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/Game.ini)
+* Raw File Settings "Engine.ini" [Engine.ini](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/Engine.ini)
+* Raw File Settings "ServerSettings.ini" [ServerSettings.ini](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/blob/master/Conan-Exiles-Windows/WindowsServer/ServerSettings.ini)
 
 
 ## Log Files
