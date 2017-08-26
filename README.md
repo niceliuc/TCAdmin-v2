@@ -39,11 +39,11 @@ Linux (CentOS 7+) Prerequisites
 
 ## Included Custom Game XML Files
 
-* **7 Days to Die** - *Config Version - (2.0.1)* - [Windows] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/7-Days-to-Die-Windows) - [[Rent a 7 Days to Die Server]](https://www.ukpowered.uk/7-days-to-die-server-hosting/)
-* **7 Days to Die** - *Config Version - (2.0.1)* - [Linux] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/7-Days-to-Die-Linux)
+* **7 Days to Die** - *Config Version - (2.0.1)* - [Windows]
+* **7 Days to Die** - *Config Version - (2.0.1)* - [Linux]
 
-* **Ark: Survival Evolved** - *Config Version - (1.0)* - [Windows] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/Ark-Survival-Evolved-Windows) - [[Rent a Ark: SE Server]](https://www.ukpowered.uk/ark-survival-evolved-server-hosting/)
-* **Ark: Survival Evolved** - *Config Version - (1.0)* - [Linux] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/Ark-Survival-Evolved-Linux)
+* **Ark: Survival Evolved** - *Config Version - (1.0)* - [Windows]
+* **Ark: Survival Evolved** - *Config Version - (1.0)* - [Linux]
 
 * **Arma 3 (Vanilla)** - *Config Version - (1.0)* - [Windows]
 * **Arma 3 (Vanilla)** - *Config Version - (1.0)* - [Linux]
@@ -75,8 +75,8 @@ Linux (CentOS 7+) Prerequisites
 * **Rust** - *Config Version - ()* - [Windows]
 * **Rust** - *Config Version - ()* - [Linux]
 
-* **Space Engineers** - *Config Version - (1.0)* - [Windows] - [[TCAdmin Files & .BAT's]](https://github.com/MrBrit-TCAdmin-Game-Configs/TCAdmin-v2/tree/master/Space-Engineers-Windows) - [[Rent a Space Engineers Server]](https://www.ukpowered.uk/space-engineers-server-hosting/)
-* **Space Engineers** - *Config Version - ()* - [Linux] - [Update soon using Wine]
+* **Space Engineers** - *Config Version - (1.0)* - [Windows]
+* **Space Engineers** - *Config Version - ()* - [Linux]
 
 * **Starbound** - *Config Version - ()* - [Windows]
 * **Starbound** - *Config Version - ()* - [Linux]
