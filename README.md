@@ -1,4 +1,4 @@
-# TCAdmin v2 Game Configuration XML Files - README VERSION (v4.1.3)
+# TCAdmin v2 Game Configuration XML Files - (v4.1.3)
 
 This github is for the latest TCAdmin v2 Game Configuration Files, public bug reports, and feedback related to my files.
 
