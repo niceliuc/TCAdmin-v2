@@ -1,8 +1,13 @@
-# TCAdmin v2 Game Configuration XML Files
+# TCAdmin v2 Game Configuration XML Files - README VERSION (v4.1.3)
 
 This github is for the latest TCAdmin v2 Game Configuration Files, public bug reports, and feedback related to my files.
 
 Each Game Configuration will contain a "README.md" to install and configure your game server.
+
+```
+PLEASE IGNORE THE UNFINISHED README FILES, EMPTY DIRECTORIES AND SO ON, THEY WILL BE FINISHED AS SOON AS I CAN!
+```
+
 
 ### Prerequisites
 
@@ -33,9 +38,12 @@ Linux (CentOS 7+) Prerequisites
 * download_arma.bat - Download ARMA 3 via SteamCMD
 * start.bat - Runs the prestart.bat and starts the server exe
 
+
 ## Congfig Files
 
+
 ## Folders
+
 
 ## Included Custom Game XML Files
 
@@ -90,14 +98,17 @@ Linux (CentOS 7+) Prerequisites
 * **More Soon!** - *Config Version - ()* - [Windows]
 * **More Soon!** - *Config Version - ()* - [Linux]
 
+
 ## (WIP)
 
 This project is a work in progress - I will update this repository daily!
+
 
 ## Authors
 
 * **Mr.Brit** - *Configuration Files & Updates* - [Mr.Brit's Profile](http://clientforums.tcadmin.com/member.php?u=86032)
 * **Gotteshand** - *Configuration Files & Updates* - [Gotteshand's Profile](http://clientforums.tcadmin.com/member.php?u=86850)
+
 
 ## Acknowledgments
 
