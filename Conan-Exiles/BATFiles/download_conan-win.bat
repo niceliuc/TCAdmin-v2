@@ -1,1 +1,0 @@
-"C:\Program Files\TCAdmin2\Monitor\Tools\SteamCmd\steamcmd.exe" +login "anonymous" +force_install_dir "E:\Games\conan-win"  +app_update 443030 validate +quit

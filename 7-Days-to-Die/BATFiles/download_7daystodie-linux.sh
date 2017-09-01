@@ -1,1 +1,0 @@
-STEAMEXE=steamcmd /home/tcadmin/Monitor/Tools/SteamCmd/steamcmd.sh +login "anonymous" +force_install_dir "/home/tcadmin/tcafiles/games/7daystodie-linux"  +app_update 294420 validate +quit

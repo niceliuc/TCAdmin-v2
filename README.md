@@ -47,57 +47,76 @@ Linux (CentOS 7+) Prerequisites
 
 ## Included Custom Game XML Files
 
-* **7 Days to Die** - *Config Version - (2.0.1)* - [Windows]
-* **7 Days to Die** - *Config Version - (2.0.1)* - [Linux]
+* **7 Days to Die** - [Windows] & [Linux] [Rent a Server]
 
-* **Ark: Survival Evolved** - *Config Version - (1.0)* - [Windows]
-* **Ark: Survival Evolved** - *Config Version - (1.0)* - [Linux]
+* **Age of Chivalry** -
 
-* **Arma 3 (Vanilla)** - *Config Version - (1.0)* - [Windows]
-* **Arma 3 (Vanilla)** - *Config Version - (1.0)* - [Linux]
+* **Alien Swarm**
 
-* **Arma 3 Exile Mod** - *Config Version - (1.0)* - [Windows]
-* **Arma 3 Exile Mod** - *Config Version - (1.0)* - [Linux] - COMING SOON!
+* **Alien vs Predator 3**
 
-* **ArmA III Desolation Redux** - *Config Version - (0.1.3.5)* - [Windows]
-* **ArmA III Desolation Redux** - *Config Version - (0.1.3.5)* - [Linux]
+* **ARGO**
 
-* **BlackWake** - *Config Version - (1.1)* - [Windows]
-* **BlackWake** - *NOT SUPPORTED* - [Linux]
+* **Ark: Survival Evolved** - [Windows] & [Linux] [Rent a Server]
 
-* **Citadel: Forged with Fire** - *Config Version - ()* - [Windows]
-* **Citadel: Forged with Fire** - *Config Version - ()* - [Linux]
+* **Arma 2**
 
-* **Conan Exiles** - *Config Version - ()* - [Windows]
-* **Conan Exiles** - *Config Version - ()* - [Linux]
+* **Arma 2 CO**
 
-* **Counter-Strike Global Offensive** - *Config Version - ()* - [Windows]
-* **Counter-Strike Global Offensive** - *Config Version - ()* - [Linux]
+* **ARMA 2 : DayZ**
 
-* **Dark and Light** - *Config Version - ()* - [Windows]
-* **Dark and Light** - *Config Version - ()* - [Linux]
+* **Arma 3**
 
-* **Insurgency** - *Config Version - ()* - [Windows]
-* **Insurgency** - *Config Version - ()* - [Linux]
+* **Arma 3 Epoch Mod**
 
-* **Medieval Engineers** - *Config Version - ()* - [Windows]
-* **Medieval Engineers** - *Config Version - ()* - [Linux]
+* **Arma 3 Exile Mod**
 
-* **Rust** - *Config Version - ()* - [Windows]
-* **Rust** - *Config Version - ()* - [Linux]
+* **ArmA III Desolation Redux**
 
-* **Space Engineers** - *Config Version - (1.0)* - [Windows]
-* **Space Engineers** - *Config Version - ()* - [Linux]
+* **Avorion**
 
-* **Starbound** - *Config Version - ()* - [Windows]
-* **Starbound** - *Config Version - ()* - [Linux]
+* **Ballistic Overkill**
 
-* **Unturned** - *Config Version - ()* - [Windows]
-* **Unturned** - *Config Version - ()* - [Linux]
+* **Battlefield 1942**
 
-* **More Soon!** - *Config Version - ()* - [Windows]
-* **More Soon!** - *Config Version - ()* - [Linux]
+* **Battlefield 2**
 
+* **Battlefield 2142**
+
+* **Battlefield Vietnam**
+
+* **BlackWake**
+
+* **BRINK**
+
+* **Citadel: Forged with Fire** - [Windows]
+
+* **Conan Exiles** - [Windows]
+
+* **Counter-Strike Global Offensive** - [Windows] & [Linux]
+
+* **Counter Strike Source**
+
+* **Dark and Light** - [Windows]
+
+* **Medieval Engineers** - [Windows]
+
+* **Minecraft**
+
+* **Rust** - [Windows] & [Linux]
+
+* **Sniper Elite v4**
+
+* **Space Engineers** - [Windows] & [Linux]
+
+* **Starbound** - [Windows] & [Linux]
+
+* **Unturned** - [Windows] & [Linux]
+
+* **Zombie Panic** - [Windows] & [Linux]
+
+* **More Soon!**
+* ****
 
 ## (WIP)
 

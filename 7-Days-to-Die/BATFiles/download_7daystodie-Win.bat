@@ -1,1 +1,0 @@
-"PATH\TO\steamcmd.exe" +login "anonymous" +force_install_dir "PATH\TO\GAMEFOLDER\"  +app_update 294420 validate +quit
